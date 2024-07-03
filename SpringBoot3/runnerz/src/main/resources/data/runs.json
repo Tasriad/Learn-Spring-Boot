@@ -1,0 +1,84 @@
+{
+  "runs": [
+    {
+      "id": 1,
+      "title": "Noon Run",
+      "startedOn": "2024-02-20T06:05:00.000000",
+      "endedOn": "2024-02-20T10:27:00.000000",
+      "miles": 24,
+      "location": "INDOOR"
+    },
+    {
+      "id": 2,
+      "title": "Afternoon Run",
+      "startedOn": "2024-02-22T12:16:00.000000",
+      "endedOn": "2024-02-22T14:27:00.000000",
+      "miles": 6,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 3,
+      "title": "Dawn Run",
+      "startedOn": "2024-03-06T19:47:00.000000",
+      "endedOn": "2024-03-06T22:06:00.000000",
+      "miles": 19,
+      "location": "INDOOR"
+    },
+    {
+      "id": 4,
+      "title": "Morning Run",
+      "startedOn": "2024-03-07T06:05:00.000000",
+      "endedOn": "2024-03-07T10:27:00.000000",
+      "miles": 24,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 5,
+      "title": "Noon Run",
+      "startedOn": "2024-03-08T12:16:00.000000",
+      "endedOn": "2024-03-08T14:27:00.000000",
+      "miles": 6,
+      "location": "INDOOR"
+    },
+    {
+      "id": 6,
+      "title": "Afternoon Run",
+      "startedOn": "2024-03-09T19:47:00.000000",
+      "endedOn": "2024-03-09T22:06:00.000000",
+      "miles": 19,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 7,
+      "title": "Dawn Run",
+      "startedOn": "2024-03-10T06:05:00.000000",
+      "endedOn": "2024-03-10T10:27:00.000000",
+      "miles": 24,
+      "location": "INDOOR"
+    },
+    {
+      "id": 8,
+      "title": "Morning Run",
+      "startedOn": "2024-03-11T12:16:00.000000",
+      "endedOn": "2024-03-11T14:27:00.000000",
+      "miles": 6,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 9,
+      "title": "Noon Run",
+      "startedOn": "2024-03-12T19:47:00.000000",
+      "endedOn": "2024-03-12T22:06:00.000000",
+      "miles": 19,
+      "location": "INDOOR"
+    },
+    {
+      "id": 10,
+      "title": "Afternoon Run",
+      "startedOn": "2024-03-13T06:05:00.000000",
+      "endedOn": "2024-03-13T10:27:00.000000",
+      "miles": 24,
+      "location": "OUTDOOR"
+    }
+    ]
+}
